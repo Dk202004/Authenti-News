@@ -1,0 +1,15 @@
+pycache/
+
+*.pyc
+
+.ipynb_checkpoints/
+
+.DS_Store
+
+data/
+
+models/
+
+reports/*.png
+
+reports/manual_testing.csv
